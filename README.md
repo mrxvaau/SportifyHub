@@ -51,15 +51,36 @@ You can choose from the following tech stack based on your team’s skillset:
 
 ## 📁 Project Structure (Planned)
 
-SportifyCampus/
-├── frontend/ # HTML, CSS, JS files
-├── backend/ # Django or Java backend
-├── database/ # MySQL schema & seed files
-├── mobile-admin-app/ # Android or Flutter app for booth admins
-├── LICENSE
-├── NOTICE
-├── README.md
-└── .gitignore
+SportifyHub/
+│
+├── README.md                  # Project overview & instructions (you already got)
+│
+├── frontend/
+│   ├── index.html             # Placeholder main HTML file
+│   ├── css/
+│   │    └── styles.css        # Empty CSS file
+│   └── js/
+│        └── main.js           # Empty JS file
+│
+├── backend/
+│   ├── README.md              # Backend-specific notes placeholder
+│   └── django_project/        # Placeholder for Django project root
+│        └── .gitkeep          # Empty to keep folder in repo
+│
+├── scheduler/
+│   ├── README.md              # Notes about scheduler module plans
+│   ├── scheduler.cpp          # Empty placeholder file for C++ scheduler
+│   └── scheduler.java         # Empty placeholder file for Java scheduler
+│
+├── database/
+│   ├── README.md              # MySQL schema & setup notes
+│   └── schema.sql             # Empty file for MySQL scripts
+│
+└── docs/
+    ├── architecture.md        # Future architecture documentation placeholder
+    ├── requirements.md        # Functional & non-functional requirements doc placeholder
+    └── flowchart.png          # Placeholder image for flowchart (to add later)
+
 
 ---
 
