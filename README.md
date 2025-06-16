@@ -83,7 +83,7 @@ SportifyHub/
 
 
 ---
-```
+
 
 ## ⚖ License
 
