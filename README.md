@@ -82,8 +82,8 @@ SportifyHub/
     └── flowchart.png          # Placeholder image for flowchart (to add later)
 
 
----
 
+```
 
 ## ⚖ License
 
