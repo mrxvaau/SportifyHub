@@ -50,7 +50,7 @@ You can choose from the following tech stack based on your team’s skillset:
 ---
 
 ## 📁 Project Structure (Planned)
-
+```
 SportifyHub/
 │
 ├── README.md                  # Project overview & instructions (you already got)
@@ -83,6 +83,7 @@ SportifyHub/
 
 
 ---
+```
 
 ## ⚖ License
 
