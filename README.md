@@ -61,10 +61,6 @@ SportifyCampus/
 ├── README.md
 └── .gitignore
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚖ License
@@ -89,8 +85,8 @@ Feel free to fork the repo and make improvements.
 ## 📞 Contact
 
 **Maintainer**: Joy  
-**Email**: *[your-email@example.com]*  
-**GitHub**: [@your-github](https://github.com/your-github)
+**Email**: *[themrxavu@gmail.com]*  
+**GitHub**: [@mrxvaau](https://github.com/mrxvaau)
 
 ---
 
