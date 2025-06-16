@@ -106,11 +106,16 @@ Feel free to fork the repo and make improvements.
 
 ## 📞 Contact
 
-**Maintainer**: Joy  
-**Email**: *[themrxavu@gmail.com]*  
-**GitHub**: [@mrxvaau](https://github.com/mrxvaau)
+**Maintainers**:
 
+- **Joy**  
+  📧 *themrxavu@gmail.com*  
+  🔗 [@mrxvaau](https://github.com/mrxvaau)
+
+- **Emon**  
+  📧 *ee8991471@gmail.com*  
+  🔗 [@EmonJoy](https://github.com/EmonJoy)
 ---
 
 > Let's make sports management smart, fun, and organized.  
-> **SportifyCampus – Where Every Game Counts.**
+> **SportifyHub – Where Every Game Counts.**
