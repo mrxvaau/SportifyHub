@@ -1,8 +1,8 @@
-# SportifyCampus
+# SportifyHub
 
 **A Smart Sports Management Portal for Schools, Colleges, Universities, Clubs, and Organizations**
 
-SportifyCampus is an all-in-one platform designed to digitize sports registration, tournament scheduling, and performance tracking. Whether you're a university, school, or local club, this system simplifies the management of sports activities with automated registration, tournament hosting, scheduling, and result publication — all in one place.
+SportifyHub is an all-in-one platform designed to digitize sports registration, tournament scheduling, and performance tracking. Whether you're a university, school, or local club, this system simplifies the management of sports activities with automated registration, tournament hosting, scheduling, and result publication — all in one place.
 
 ---
 
